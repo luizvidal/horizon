@@ -141,3 +141,5 @@ export const transactionCategoryStyles = {
     chipBackgroundColor: "bg-inherit",
   },
 };
+
+export const SESSION_NAME = "appwrite-horizon-session"
